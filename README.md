@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil 👋
 
- - 💻 Estou estudando atualmente: RESTFul com Spring Boot ☕
+ - 💻 Estou estudando atualmente: RESTFul com Spring Boot ☕, Angular, OWASP, Apache Kafka 
 
 <div align="center">
   <a href="https://github.com/caiosilve">
